@@ -1,6 +1,6 @@
 # Web Visualization (Weather Analysis Dashboard)
 
-This project can be viewed at file:///C:/Users/Owner/Desktop/homework%20desktop/Web-Design-Challenge/WebVisualizations/index.html
+
 
 # Tools / Technologies used:
 
